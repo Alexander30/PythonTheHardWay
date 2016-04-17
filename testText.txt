@@ -1,0 +1,2 @@
+"PRvy riadok"
+"Druhy riadok" 

@@ -1,0 +1,6 @@
+                  LIST OF PYTHON'S ERRORS:
+SytaxError:invalid syntax
+TypeError: 'str' object is not callable
+SyntaxError: unexpected EOF while parsing
+ValueError:need more than 3 values to unpack
+          :too many values to unpack                  
